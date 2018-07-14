@@ -1,7 +1,7 @@
-# PoC-GTFO-mirror-
+# PoC-GTFO-mirror
 # Proof of Concept or Get The Fuck Out is one of my all-time favorite zines.
 
-PoC||GTFO 00, August 2013, An epistle from the desk of Rt. Revd. Pastor Manul Laphroaig
+#PoC||GTFO 00#, August 2013, An epistle from the desk of Rt. Revd. Pastor Manul Laphroaig
 
 PoC||GTFO 01, October 2013, An Epistle to the 10th H2HC in São Paulo, From the writing desk, not the raven, of Rt. Revd. Preacherman Pastor Manul Laphroaig
 
